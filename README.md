@@ -14,4 +14,6 @@ Christopher Speltz
 
 [Horiseon Website](https://christopherspeltz.github.io/CodeRefactor/)
 
+## Screenshot
+
 ![screenshot](https://user-images.githubusercontent.com/37876358/137055030-57105134-9f11-427f-b51f-549f9c8fca6d.PNG)
