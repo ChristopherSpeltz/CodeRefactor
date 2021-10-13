@@ -12,4 +12,4 @@ Christopher Speltz
 
 ## Link to website
 
-christopherspeltz.github.io/CodeRefactor/
+[Horiseon Website](christopherspeltz.github.io/CodeRefactor/)
